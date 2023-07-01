@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jul 2023 15:07:37 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Question</title>
+      <link>/posts/question/</link>
+      <pubDate>Sat, 01 Jul 2023 15:07:37 +0800</pubDate>
+      
+      <guid>/posts/question/</guid>
+      <description>
+        
+          
+            在配置中由于失误，没有点到公开而导致后面更改branch时找不到选项master，后面完成后网站显示404错误，过段时间后恢复正常。 
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
